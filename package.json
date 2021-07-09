@@ -1,0 +1,25 @@
+{
+  "name": "unleash",
+  "version": "1.0.0",
+  "description": "Unleash server for Fleks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jcantillog/fleks-unleash.git"
+  },
+  "keywords": [
+    "unleash"
+  ],
+  "author": "Nitrogen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcantillog/fleks-unleash/issues"
+  },
+  "homepage": "https://github.com/jcantillog/fleks-unleash#readme",
+  "dependencies": {
+    "unleash-server": "^4.0.5"
+  }
+}
