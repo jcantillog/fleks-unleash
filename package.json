@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/jcantillog/fleks-unleash#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "unleash-server": "^4.0.5"
   }
 }
